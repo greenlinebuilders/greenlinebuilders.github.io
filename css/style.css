@@ -588,7 +588,14 @@ label.error{
 .section-content{
   margin-top: 7.1em;
 }
-
+.section-content-client{
+  margin-top: 7.1em;
+}
+.section-content-client img{
+  max-width: 100%;
+  height: auto;
+  max-height: 400px;
+}
 
 
 /*-------------------------------------------------------------------------------
